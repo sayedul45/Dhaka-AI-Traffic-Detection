@@ -1,0 +1,5 @@
+streamlit
+pillow
+kaggle
+opencv-python
+torch
